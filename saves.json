@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Cody",
+        "level": 1,
+        "health": 16,
+        "maxHealth": 16,
+        "mana": 10,
+        "maxMana": 10,
+        "strength": 3,
+        "defense": 2,
+        "magic": 2,
+        "magicDefense": 1,
+        "exp": 0,
+        "expNeeded": 10,
+        "pClass": "Fool",
+        "inventory": [],
+        "variables": {
+            "levelIntro" : true
+        }
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Slime",
+        "level": "1",
+        "desc": "Ooze",
+        "health": "4",
+        "strength": "1",
+        "magic": "0",
+        "defense": "0",
+        "magDefense": "0",
+        "weakness": [
+            "Physical"
+        ]
+    },
+    {
+        "name": "Skeleton",
+        "level": "1",
+        "desc": "Bones somehow animating as if there were still muscles and tendons attached",
+        "health": "5",
+        "strength": "2",
+        "magic": "0",
+        "defense": "1",
+        "magDefense": "0",
+        "weakness": [
+            "Fire"
+        ]
+    },
+    {
+        "name": "Sim",
+        "level": "10",
+        "desc": "Short terrifying with a temper to match",
+        "health": "20",
+        "strength": "5",
+        "magic": "4",
+        "defense": "3",
+        "magDefense": "2",
+        "weakness": "None"
+    },
+    {
+        "name": "Sock Elf",
+        "level": "1",
+        "desc": "Tiny elf who steals socks. Pesky nuisance.",
+        "health": "3",
+        "strength": "1",
+        "magic": "2",
+        "defense": "0",
+        "magDefense": "1",
+        "weakness": [
+            "Physical"
+        ]
+    },
+    {
+        "name": "Bat",
+        "level": "1",
+        "desc": "A flying bat.  Don't you know what a bat is?",
+        "health": "4",
+        "strength": "1",
+        "magic": "1",
+        "defense": "0",
+        "magDefense": "1",
+        "weakness": "None"
+    }
+]
