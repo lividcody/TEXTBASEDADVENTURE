@@ -7,8 +7,6 @@ import levels.levIntro as lIntro
 # global Player object
 player = Player("")
 
-# clears terminal screen
-
 # reads json save file's contents into array of dict's
 def loadSaveContent():
     try:
