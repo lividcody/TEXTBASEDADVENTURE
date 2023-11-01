@@ -44,7 +44,4 @@ def introSearch():
             print('You look around..\n')
             txtPause()
             printDesc(desc)
-        
-    
-    
-    
+        elif i == ''
